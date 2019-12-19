@@ -2,7 +2,7 @@
 
 Author: Ngô Đức Phú Hòa
 
-Title: Nhận dang thần tượng
+Title: Nhận dạng thần tượng
 
 Topics: Ứng dụng trong computer vision, sử dụng thuật toán chính là CNN
 
