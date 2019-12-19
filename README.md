@@ -17,4 +17,4 @@ Datasets:  - file tranthanh, hoailinh, other
            
 Level of difficulty: Sử dụng nhanh và dễ, có thể train lại với tập dữ liệu khác tốc độ tùy thuộc vào phần cứng và hình ảnh input
 
-link: 
+link: https://github.com/PhuHoa-max/FaceIdol.github.io
